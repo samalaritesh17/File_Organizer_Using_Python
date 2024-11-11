@@ -1,0 +1,25 @@
+File Organizer Tool using Python
+
+Summary
+1.The File Organizer Tool is a Python-based desktop application that helps users efficiently organize files within a selected directory. 
+2.The tool provides multiple organization methods: by file extension, by modification date, and by file size. 
+3.The user-friendly GUI is built using `tkinter`, making it easy for users to navigate and perform the organization tasks seamlessly.
+
+Purpose
+-> This project aims to simplify the process of organizing files, which can become overwhelming when dealing with a large number of files. 
+-> By using this tool, users can save time and maintain an organized file system, enhancing productivity and ensuring that files are easy to locate.
+
+Features
+- Organize by Extension : Group files into folders based on their extensions (e.g., `PDF`, `TXT`, `JPG`).
+- Organize by Date : Organize files into folders based on their last modified date, with folders named in `YYYY-MM-DD` format.
+- Organize by Size :
+  - Small : Files less than 1 MB.
+  - Medium : Files between 1 MB and 10 MB.
+  - Large : Files larger than 10 MB.
+  You can modify the size restrictions in the code if required.
+- User-Friendly Interface : Built with `tkinter`, providing clear options and easy folder selection.
+
+Note : The test_data directory contains different types of files with different extensions such as PDF, DOCX, WordDoc, Videos, Audios, Java Codes etc.
+So, I have used this directory to test the application and it worked fine for me.
+
+THANK YOU.
