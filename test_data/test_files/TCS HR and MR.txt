@@ -1,0 +1,80 @@
+TCS HR and MR Questions
+1.what do u know about TCS?
+2.Why do you want to join in TCS?
+3.Who is the current and past CEO of TCS?
+4.Are you ready to work from office?
+5.What are your short term and long term goals?
+6.where do you see yourself in the next 5 years?
+7.What were the problems you faced in your project and how did you overcome them?
+8.what are your hobbies?
+9.Why you have chosen MLRIT to pursue your B.Tech?
+10.When do you lie and why?
+11.what is the disadvantage of your college?
+12.why should we hire you?
+13.why should we not hire you?
+14.What are you expecting from TCS?
+15.Assume that I am an investor, how would you impress me with the idea of your project so that I could invest my money in your project.
+16.Explain to me about cloud technology and how do you think its impacts in the near future.
+17.If you have multiple offer letters, which offer letter would you prefer to accept?
+18.Difference between digital and ninja roles?
+19.Suppose you are in a project and there is an issue in it, and you know the solution. 
+How will you convey this message to your teammates and team leader? 
+20.Which domain do I like to work in?
+21.Difference between AI, ML, and Deep Learning.
+22.What is the meaning of your name?
+23.what are your strenght and weakness?
+24.Suppose you are A Team Member Everyone Should Submit Ur Solution. Ur Solution
+Is Failed What Is Ur Mood That Time And Ur Hr Need It Urgent So That The Project
+Is Complete
+25. Is It Better To Feed A Hungry Man With A Fish Or Teach Him How To Do Fishing
+26.Will You Share Your Code If Someone(Relatives Or Friends Who Are Not A Part Of The
+Company) Asks You To Share While You Are Working For A Company
+27.Favourite Subject In your Engineering
+28.what were the challenges which you have faced in your life?
+29.What Will You Do If Your Colleague Takes Credit Of Your Idea In Front Of Your
+Supervisor?
+30.How Much Successful Do You Think You Are In Life?
+31.If There Is A Head Over You… Who Continuously Gives So Many Changes....And You
+Are Leading A Team. He Again Told You Some Changes And Want It In Two Days...Which Is
+Not Possible To Do In Two Days By Your Team...What You Will Do In That Condition?
+32.He Asked Me If I Get Offer Letter From Tcs And Google Whom Will I Choose And
+Why?
+33.About College and family?
+34.how you are unique from others out there?
+35.Imagine you want to work in a particular role and it is not vacant. what would you do in that situation?
+36.recent projects of TCS
+37.how do you handle stress?
+
+Technologies related questions
+1.what is datascience?
+2.what is ML, AI?
+3.what is big data?
+4.how do you think facebook or instagram handles its data?
+5.how google maps work?
+6.what is cloud computing?
+7.what is a neural network?
+8.explain the big data tools?
+
+TCS DataScience Related Questions
+What are pandas and why there are used?
+Compare Pandas and Numpy?
+Can you explain about Pandas data structures?
+Which one is better than NumPy arrays or lists in python?
+Explain about tuples?
+Explain Exception Handling, what are the main keywords?
+What are regular expressions, how would you use it?
+Name some function in regular expressions?
+Why are flower brackets used in regular expressions?
+Do you know file Handling?
+How do you read the data from the files?
+How do you write the data into the files?
+Do you have any personal projects which are useful to your system in our computer-based on python?
+Can you explain the Blueprint for the project?
+How would you plot a bar graph and which module is used for that?
+Can you analyze the data if you were given data?
+How do you import a file for analyzing the data?
+How do you connect python with Mysql?
+How do you execute Mysql queries with the help of Python?
+Which is the other language other than python used for analyzing the data? I said R language
+Explain the differences between R language and Python language?
+explain about SDLC?

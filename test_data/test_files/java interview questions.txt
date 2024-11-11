@@ -1,0 +1,58 @@
+1.what is java
+2.what are the key features of java.
+3.what is meant by JVM, JRE, JDK.
+4. Is Java Platform Independent if then how?
+5.what is JIT.
+6.What are the different memory stages availble in JVM
+7.Difference between Java and Python.
+8.Explain public static void main(String[] args) in java.
+9.What is Java String Constant pool.
+10.What will happen if we declare don’t declare the main as static?
+11.What are the advantages of Packages in Java?
+12.Explain different data types in Java.
+13.What is a wrapper class and why do we need it in java.
+14.Explain the difference between instance variable and a class variable.
+15.Difference in the use of print, println, and printf.
+16.How many ways you can take input from the console?
+17.Explain the difference between >> and >>> operators.
+18.What’s the difference between the methods sleep() and wait()?
+19.What are the differences between String and StringBuffer?
+20.What are the differences between StringBuffer and StringBuilder?
+21.On which memory arrays are created in Java?
+22.Why does the Java array index start with 0?
+23.What are the advantages and disadvantages of an array?
+24***.What are the main concepts of OOPs in Java? 
+25***.explain about final, static, this and super keywords in java? 
+26.What are the different ways to create objects in Java?
+27.what is a constructor and how many types are there?
+28.difference between constructors and methods?
+29.difference between abstract class and interface?
+30.What is the primary advantage of data encapsulation?
+31.What is multiple inheritance? Is it supported by Java?
+32.What is the composition of Java?
+33.What is an association?
+34.Explain method overloading and overriding?
+35.Can we overload the main() method?
+36.what is enumeration in java?
+37.Difference between array and arraylist?
+38.Difference between ArrayList and LinkedList.
+39.what is exception handling and How many types of exceptions can occur in a Java program?
+40.Difference between an Error and an Exception.
+41.What is the difference between Checked Exception and Unchecked Exception?
+42.Is it necessary that each try block must be followed by a catch block?
+43.What purpose do the keywords final, finally, and finalize fulfill?
+44.What is the difference between this() and super() in Java?
+
+45.What do you mean by a Multithreading?
+46.What are the two ways in which Thread can be created?
+47.Differentiate between process and thread?
+48.Describe the life cycle of the thread?
+49.What are the different types of Thread Priorities in Java? 
+And what is the default priority of a thread assigned by JVM?
+50.what is garbage collection and how can it be useful in java?
+
+51.what is meant by JDBC and explain the steps involved to connect database.
+52.differernce between stack and queue.
+53.why java is not completely oop language?
+54.Difference between throw and throws methods?
+55.advantages and disadvantages of multithreading?
